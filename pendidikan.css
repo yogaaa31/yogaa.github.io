@@ -1,0 +1,15 @@
+
+
+.banner {
+	height: 60vh;
+	background-image: ;url(https://wallpapercave.com/wp/wp4207173.jpg)
+	background-size: cover;
+	position: relative;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+.sekolah {
+	text-align: center;
+	background-color: white;
+}
